@@ -1,5 +1,5 @@
 {
-  "name": "lanflix",
+  "name": "streaming",
   "version": "1.0.0",
   "description": "Lan flix — a tiny self-hosted video streaming server for your home network",
   "main": "server.js",
