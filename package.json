@@ -1,0 +1,16 @@
+{
+  "name": "lanflix",
+  "version": "1.0.0",
+  "description": "Lan flix — a tiny self-hosted video streaming server for your home network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cache-node": "node cache-node.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "archiver": "^7.0.1",
+    "bonjour-service": "^1.2.1"
+  }
+}
